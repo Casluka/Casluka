@@ -2,7 +2,7 @@
   <img src="https://github.com/LucasBertone/LucasBertone/blob/main/banner.png?raw=true" alt="Banner do Perfil Lucas Bertone">
 </p>
 
-# Olá, eu sou o Lucas Bertone! 👋
+# Olá, eu sou o Lucas Bertone mais conhecido como Caslluka🐧
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasBertone&color=blueviolet&style=flat-square" alt="Contador de Visitas no Perfil">
@@ -19,8 +19,8 @@ Atuo com **infraestrutura de redes, servidores, Wi-Fi corporativo e estações d
 
 ### 👨‍💻 Sobre Mim
 
-- 🔭 Meu ultimo trabalho foi no **Búzios Beach Resort pela AlliedIT** como **Analista de Suporte N2 Field Service**.  
-- 🌱 Estudando **Python, Django** e me aprofundando em **Segurança da Informação (ISO 27001/27002)**.  
+- 🔭 Meu último trabalho foi no **Búzios Beach Resort pela AlliedIT** como **Analista de Suporte N2 Field Service**.  
+- 🌱 Estudando **Python, Django, Redes e JavaScript** e me aprofundando em **Segurança da Informação (ISO 27001/27002)**.  
 - 👯 Aberto a **colaborar em projetos de redes, infraestrutura e automação em TI**.  
 - 🤝 Tenho perfil colaborativo, com foco em **resolver problemas de forma prática e ágil**.  
 - 📫 *Como me encontrar:*  
@@ -33,7 +33,7 @@ Atuo com **infraestrutura de redes, servidores, Wi-Fi corporativo e estações d
 
 | Categoria | Habilidades e Certificações |
 | --- | --- |
-| *Redes, Infraestrutura e Segurança* | [![Intro to Networks](https://images.credly.com/size/100x100/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/22fdb190-24ea-4ce6-8df5-919d85195941/public_url) [![SRWE](https://images.credly.com/size/100x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](https://www.credly.com/badges/f347de11-7ea2-4f99-bc54-d940a4172822/public_url ) [![Linux Unhatched](https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](https://www.credly.com/badges/d379f2a9-317d-4c75-85b5-61aad89e29b1/public_url) |
+| *Redes, Infraestrutura e Segurança* | [![Intro to Networks](https://images.credly.com/size/100x100/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/22fdb190-24ea-4ce6-8df5-919d85195941/public_url) [![SRWE](https://images.credly.com/size/100x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](https://www.credly.com/badges/f347de11-7ea2-4f99-bc54-d940a4172822/public_url ) [![Linux Unhatched](https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](https://www.credly.com/badges/d379f2a9-317d-4c75-85b5-61aad89e29b1/public_url) [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/44799929-9588-471b-9f3f-8829078f6af6/public_url) |
 | *Habilidades Comportamentais (Soft Skills)* | Resolução de Problemas • Comunicação • Trabalho em Equipe • Adaptabilidade |
 | *Metodologias e Conceitos* | Metodologias Ágeis • Scrum • Versionamento com Git |
 | *Idiomas* | Português (Nativo) • Inglês (Leitura Intermediária / Audição Intermediária / Fala Básica) |
