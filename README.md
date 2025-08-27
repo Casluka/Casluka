@@ -33,7 +33,7 @@ Atuo com **infraestrutura de redes, servidores, Wi-Fi corporativo e estações d
 
 | Categoria | Habilidades e Certificações |
 | --- | --- |
-| *Redes, Infraestrutura e Segurança* | [![Intro to Networks](https://images.credly.com/size/100x100/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/22fdb190-24ea-4ce6-8df5-919d85195941/public_url) [![SRWE](https://images.credly.com/size/100x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](https://www.credly.com/badges/f347de11-7ea2-4f99-bc54-d940a4172822/public_url ) [!(Linux Unhatched](https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](https://www.credly.com/badges/d379f2a9-317d-4c75-85b5-61aad89e29b1/public_url) |
+| *Redes, Infraestrutura e Segurança* | [![Intro to Networks](https://images.credly.com/size/100x100/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/22fdb190-24ea-4ce6-8df5-919d85195941/public_url) [![SRWE](https://images.credly.com/size/100x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](https://www.credly.com/badges/f347de11-7ea2-4f99-bc54-d940a4172822/public_url ) [![Linux Unhatched](https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](https://www.credly.com/badges/d379f2a9-317d-4c75-85b5-61aad89e29b1/public_url) |
 | *Habilidades Comportamentais (Soft Skills)* | Resolução de Problemas • Comunicação • Trabalho em Equipe • Adaptabilidade |
 | *Metodologias e Conceitos* | Metodologias Ágeis • Scrum • Versionamento com Git |
 | *Idiomas* | Português (Nativo) • Inglês (Leitura Intermediária / Audição Intermediária / Fala Básica) |
